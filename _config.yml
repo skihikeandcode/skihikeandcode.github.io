@@ -24,7 +24,7 @@ email: skiandcode@gmail.com
 #  Love ski, hike and inline skating. Write codes for living in Amazon. 
 #  I live in Great Seaattle area and am originally from South Korea.
 #  This is my personal blog.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://skihikeandcode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
