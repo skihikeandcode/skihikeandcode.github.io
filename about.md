@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
+title: About Me
 permalink: /about/
 ---
 
-I have been writing codes for 20 years since GW-Bacic language came first. In my free time, I enjoy ski, hike, and inline skating. I moved to US from South Korea 10 years back. I live in Great Seattle area.
+I have been writing codes for 20 years since 8-bit computer era. I was born and raised in Seoul, South Korea and moved to US 10 years back. When I don't right codes, I go hike and ride inline skate during sunny days and, do ski during winter season.
 
 
