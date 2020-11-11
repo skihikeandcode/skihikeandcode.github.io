@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+
+# Jekyll sitemap generator
+utl: "https://skihikeandcode.github.io"
+plugins:
+  - jekyll-sitemap
